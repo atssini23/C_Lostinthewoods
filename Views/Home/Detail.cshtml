@@ -1,0 +1,18 @@
+<h4>@ViewBag.Trail.Name</h4>
+<h5>Description:</h5><p>@ViewBag.Trail.Description</p>
+<h5>Elevation:</h5><p>@ViewBag.Trail.Elevation</p>
+<h5>Length:</h5><p>@ViewBag.Trail.Length</p>
+
+  <iframe
+    width="600"
+    height="450"
+    frameborder="1" style="border:0"
+    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDkFTxxoHmC1lxuS-jvLMp16LZtq89nh7s
+        &q=@ViewBag.Trail.Latitude,@ViewBag.Trail.Longitude" allowfullscreen>
+</iframe>
+
+<p>Latitude: @ViewBag.Trail.Latitude</p>
+<p>Longitude: @ViewBag.Trail.Longitude</p>
+
+<a href="/">Go Home</a>
+
