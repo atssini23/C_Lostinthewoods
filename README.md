@@ -1,1 +1,2 @@
-# C_Lostinthewoods
+Lost in the Woods
+For this assignment we will be practicing our newly learned knowledge of Dapper by build an app that showcases various Hiking trails. This app will have a list of hiking trails that each have a few properties: Trail Name, Description, Trail Length, Elevation Gain, Longitude and Latitude. All trails are listed on a main page with the ability to add new trails as well as Navigate to each trail's individual information page. The wireframe for the assignment is provided below
